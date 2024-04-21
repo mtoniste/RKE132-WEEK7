@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.exe
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.deps.json
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.runtimeconfig.json
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\bin\Debug\net8.0\ArgumentsAndParameters.pdb
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.AssemblyInfo.cs
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\refint\ArgumentsAndParameters.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.pdb
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ArgumentsAndParameters.genruntimeconfig.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\ArgumentsAndParameters\obj\Debug\net8.0\ref\ArgumentsAndParameters.dll

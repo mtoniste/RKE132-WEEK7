@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\bin\Debug\net8.0\Functions.exe
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\bin\Debug\net8.0\Functions.deps.json
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\bin\Debug\net8.0\Functions.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\bin\Debug\net8.0\Functions.pdb
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\Functions.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\refint\Functions.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\Functions.pdb
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\Functions\obj\Debug\net8.0\ref\Functions.dll

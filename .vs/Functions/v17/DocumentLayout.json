@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D872F20-7B19-4A3C-A2AD-FDCD833C9D21}|DiscountCalculator\\DiscountCalculator.csproj|c:\\users\\pc\\desktop\\julia aine\\week5\\functions\\discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D872F20-7B19-4A3C-A2AD-FDCD833C9D21}|DiscountCalculator\\DiscountCalculator.csproj|solutionrelative:discountcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CEF617-1E76-4C66-BF32-85BB4370E00D}|testikas\\testikas.csproj|c:\\users\\pc\\desktop\\julia aine\\week5\\functions\\testikas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CEF617-1E76-4C66-BF32-85BB4370E00D}|testikas\\testikas.csproj|solutionrelative:testikas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{687F4B31-F67E-43C8-93C5-04B16C231587}|Calculator\\Calculator.csproj|c:\\users\\pc\\desktop\\julia aine\\week5\\functions\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{687F4B31-F67E-43C8-93C5-04B16C231587}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E949B9A-1703-45E1-A69D-E8BA6D541FD6}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|c:\\users\\pc\\desktop\\julia aine\\week5\\functions\\argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E949B9A-1703-45E1-A69D-E8BA6D541FD6}|ArgumentsAndParameters\\ArgumentsAndParameters.csproj|solutionrelative:argumentsandparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677A8CCF-5988-4F89-A146-41D5DCFD624A}|Functions\\Functions.csproj|c:\\users\\pc\\desktop\\julia aine\\week5\\functions\\functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677A8CCF-5988-4F89-A146-41D5DCFD624A}|Functions\\Functions.csproj|solutionrelative:functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\DiscountCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "DiscountCalculator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\DiscountCalculator\\Program.cs",
+              "RelativeToolTip": "DiscountCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:04:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:44:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\testikas\\Program.cs",
+              "RelativeDocumentMoniker": "testikas\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\testikas\\Program.cs",
+              "RelativeToolTip": "testikas\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:42:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeDocumentMoniker": "ArgumentsAndParameters\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\ArgumentsAndParameters\\Program.cs",
+              "RelativeToolTip": "ArgumentsAndParameters\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:33:39.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\Functions\\Program.cs",
+              "RelativeDocumentMoniker": "Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Julia aine\\Week5\\Functions\\Functions\\Program.cs",
+              "RelativeToolTip": "Functions\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T20:26:08.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

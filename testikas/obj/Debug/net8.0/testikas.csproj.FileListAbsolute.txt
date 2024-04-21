@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\bin\Debug\net8.0\testikas.exe
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\bin\Debug\net8.0\testikas.deps.json
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\bin\Debug\net8.0\testikas.runtimeconfig.json
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\bin\Debug\net8.0\testikas.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\bin\Debug\net8.0\testikas.pdb
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\testikas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\testikas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\testikas.AssemblyInfo.cs
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\testikas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\testikas.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\refint\testikas.dll
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\testikas.pdb
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\testikas.genruntimeconfig.cache
+C:\Users\PC\Desktop\Julia aine\Week5\Functions\testikas\obj\Debug\net8.0\ref\testikas.dll
